@@ -19,8 +19,8 @@
 - [ ] 𝐐.**6** - **Guillermo is the system administrator for a midsized retail organization. Guillermo has been tasked with writing a document that describes, step-by-step, how to securely install the operating system on a new laptop.** *This document is an example of a ________.*
    - Procedures
 
-- [ ] 𝐐.**7** - **
-   -
+- [ ] 𝐐.**7** - **Software security practitioners seek to maintain the CIA of systems and software based on business needs. Which aspect of the CIA is focused on guaranteeing that authorized subjects are granted uninterrupted access to objects in a timely fashion?**
+   - Availability
 
 - [ ] 𝐐.**8** - **
    -
