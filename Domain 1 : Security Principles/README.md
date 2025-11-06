@@ -31,6 +31,9 @@
 - [ ] 𝐐.**10** - **Siobhan is deciding whether to make a purchase online; the vendor wants Siobhan to create a new user account and is requesting Siobhan's full name, home address, credit card number, phone number, email address, the ability to send marketing messages to Siobhan, and permission to share this data with other vendors. Siobhan decides that the item for sale is not worth the value of Siobhan's personal information, and decides to not make the purchase.** *What kind of risk management approach did Siobhan make?*
    - Avoidance
 
+---
+---
+
 - [ ] 𝐐.**11** - **What is risk tolerance often likened to?**
    - Risk appetite
 
@@ -63,6 +66,9 @@
    - Something you have
    - Something you are
 
+---
+---
+
 - [ ] 𝐐.**21** - **According to the code of ethics, what are information security professionals expected to uphold?**
    - Be honorable, honest, just and responsible within legal conduct
    
@@ -75,3 +81,47 @@
 - [ ] 𝐐.**24** - **What role might security professionals play in risk assessment at a system level?**
    - Assisting in risk assessment at a system level
 
+- [ ] 𝐐.**25** - **Which regulation grants data protection and control to individuals within the EU, regardless of citizenship?**
+   - General Data Protection Regulation (GDPR)
+
+- [ ] 𝐐.**26** - **What action is suggested to mitigate the risk associated with a threat?**
+   - Evaluate the likelihood of the event and take appropriate actions to mitigate the risk
+ 
+- [ ] 𝐐.**27** - **Who is responsible for determining risk tolerance in an organization?**
+   - Executive management and board of directors
+
+- [ ] 𝐐.**28** - **What is an "asset" in the context of risk management terminology?**
+   - Something in need of protection
+
+- [ ] 𝐐.**29** - **In e-commerce and electronic transactions, what does non-repudiation protect against?**
+   - Falsely denying transactions
+
+- [ ] 𝐐.**30** - **In the United States, which act governs the privacy of medical information?**
+   - HIPAA
+
+---
+---
+
+- [ ] 𝐐.**31** - **What potential risk can occur when a remote worker's laptop is left unattended or unlocked?**
+   - Accidental introduction of unauthorized software with malware
+
+- [ ] 𝐐.**32** - **What term is used to refer to information that, when combined with other pieces of data, significantly narrows the possibility of association with more individuals?**
+   - Personally Identifiable Information (PII)
+
+- [ ] 𝐐.**33** - **How do companies that offer identity theft insurance manage their own financial risk?**
+   - By calculating premium payments against potential payouts
+
+- [ ] 𝐐.**34** - **If a pickpocket is a threat, what would be their attack vector?**
+   - Their technique and approach
+
+- [ ] 𝐐.**35** - **What is the purpose of implementing security controls in the risk management process?**
+   - To mitigate the risk to an acceptable level
+
+- [ ] 𝐐.**36** - **Which region enacted comprehensive legislation addressing personal privacy in 2016?**
+   - European Union
+
+- [ ] 𝐐.**37** - **The concept of "secrecy" is most related to which foundational aspect of security?
+   - Confidentiality
+
+---
+---
