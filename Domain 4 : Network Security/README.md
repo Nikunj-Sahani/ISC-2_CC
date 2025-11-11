@@ -1,11 +1,11 @@
 <h1 align="center"> 🧩 Domain 4 :: Network Security 🧩</h1>
 
 ---
-- [ ] 𝐐.**1** - **
-   - 
+- [ ] 𝐐.**1** - **What is the purpose of a subnet mask in IPv4?**
+   - It defines the part of the address used for the subnet
 
-- [ ] 𝐐.**2** - **
-   - 
+- [ ] 𝐐.**2** - **What is a security solution installed on an endpoint to detect potentially anomalous activity?**
+   - Host-based intrusion prevention system
 
 - [ ] 𝐐.**3** - **
    - 
