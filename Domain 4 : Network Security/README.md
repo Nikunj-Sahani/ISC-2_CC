@@ -59,8 +59,8 @@
    - To document specific parameters and minimum service levels
 
 - [ ] 𝐐.**20** - **Which organization's definition of cloud computing is commonly used globally?**
-   - Which organization's definition of cloud computing is commonly used globally?
-
+   - National Institute of Standards and Technology (NIST)
+     
 - [ ] 𝐐.**21** - **
    - 
 
