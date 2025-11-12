@@ -61,39 +61,70 @@
 - [ ] 𝐐.**20** - **Which organization's definition of cloud computing is commonly used globally?**
    - National Institute of Standards and Technology (NIST)
      
-- [ ] 𝐐.**21** - **
-   - 
+- [ ] 𝐐.**21** - **Which cloud computing model allows an enterprise to scale up new software or data-based services/solutions quickly without massive hardware installation?**
+   - Infrastructure as a Service (IaaS)
 
-- [ ] 𝐐.**22** - **
-   - 
+- [ ] 𝐐.**22** - **What is one of the services offered by many MSPs, where they monitor firewalls and other security tools to provide expertise in triaging events?**
+   - Managed Detection and Response (MDR) Service
 
-- [ ] 𝐐.**23** - **
-   - 
+- [ ] 𝐐.**23** - **What is a cloud arrangement in which the provider owns and manages the hardware, operating system, and applications in the cloud, while the customer retains ownership of the data?**
+   - Software as a service (SaaS)
 
-- [ ] 𝐐.**24** - **
-   - 
+- [ ] 𝐐.**24** - **What is resource pooling in the context of cloud computing?**
+   - Sharing physical servers with other organizations
 
-- [ ] 𝐐.**25** - **
-   - 
+- [ ] 𝐐.**25** - **What is the purpose of the three-way handshake in networking?**
+   - Synchronizing and acknowledging requests
 
-- [ ] 𝐐.**26** - **
-   - 
+- [ ] 𝐐.**26** - **What is network monitoring or sniffing?**
+   - Monitoring traffic patterns to obtain information about a network
 
-- [ ] 𝐐.**27** - **
-   - 
+- [ ] 𝐐.**27** - **What is the common term used to describe the mechanisms that control the temperature and humidity in a data center?**
+   - HVAC (heating, ventilation and air conditioning)
 
-- [ ] 𝐐.**28** - **
-   - 
+- [ ] 𝐐.**28** - **Why is an abnormal system shutdown in a data center a concern?**
+   - It may result in the loss or corruption of data
 
-- [ ] 𝐐.**29** - **
-   - 
+- [ ] 𝐐.**29** - **In a scenario requiring full redundancy, what should devices have in terms of power supplies?**
+   - Two power supplies connected to diverse sources
 
-- [ ] 𝐐.**30** - **
-   - 
+- [ ] 𝐐.**30** - **What is the function of transfer switches or transformers in a redundant power system?**
+   - Enable seamless transition between power sources
 
-- [ ] 𝐐.**31** - **
-   - 
+- [ ] 𝐐.**31** - **What is the primary purpose of Virtual Local Area Networks (VLANs)?**
+   - Consolidate traffic across multiple switch ports
 
-- [ ] 𝐐.**32** - **
-   - 
+- [ ] 𝐐.**32** - **How does a Web Application Firewall (WAF) function in a network?**
+   - It monitors all traffic from the outside for malicious behavior before passing commands to a web server
 
+- [ ] 𝐐.**33** - **What is a potential alternative to expensive dedicated point-to-point connections?**
+   - Gateway-to-gateway VPNs
+
+- [ ] 𝐐.**34** - **What term describes a portion of the organization's network that interfaces directly with the outside world and typically has more security controls and restrictions compared to the rest of the internal IT environment?**
+   - Demilitarized zone (DMZ)
+
+- [ ] 𝐐.**35** - **What does microsegmentation enforce in terms of business functions/units/offices/departments?**
+   - Least privilege
+
+- [ ] 𝐐.**36** - **Which of the following tools can be used to both identify and prevent threats?** *Select three options*
+   - Intrusion Protection System (IPS)
+   - Firewalls
+   - Anti-malware/antivirus
+
+- [ ] 𝐐.**37** - **What does micro-segmentation aid in protecting against?**
+   - Advanced persistent threats
+
+- [ ] 𝐐.**38** - **What is a potential drawback associated with the freedom provided by wireless networking?**
+   - Additional vulnerabilities
+
+- [ ] 𝐐.**39** - **What is a common network device used to filter traffic?**
+   - Firewalls
+
+- [ ] 𝐐.**40** - **What connects all devices behind the firewall in a small business network?**
+   - Switch
+
+- [ ] 𝐐.**41** - **What is a common network device used to connect networks?**
+   - Routers
+
+---
+---
