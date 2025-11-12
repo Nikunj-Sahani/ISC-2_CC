@@ -60,3 +60,40 @@
 
 - [ ] 𝐐.**20** - **Which organization's definition of cloud computing is commonly used globally?**
    - Which organization's definition of cloud computing is commonly used globally?
+
+- [ ] 𝐐.**21** - **
+   - 
+
+- [ ] 𝐐.**22** - **
+   - 
+
+- [ ] 𝐐.**23** - **
+   - 
+
+- [ ] 𝐐.**24** - **
+   - 
+
+- [ ] 𝐐.**25** - **
+   - 
+
+- [ ] 𝐐.**26** - **
+   - 
+
+- [ ] 𝐐.**27** - **
+   - 
+
+- [ ] 𝐐.**28** - **
+   - 
+
+- [ ] 𝐐.**29** - **
+   - 
+
+- [ ] 𝐐.**30** - **
+   - 
+
+- [ ] 𝐐.**31** - **
+   - 
+
+- [ ] 𝐐.**32** - **
+   - 
+
