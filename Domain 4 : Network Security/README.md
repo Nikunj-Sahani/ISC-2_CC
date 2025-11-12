@@ -55,7 +55,7 @@
 - [ ] 𝐐.**18** - **What distinguishes Memoranda of Understanding (MOU) or Memoranda of Agreement (MOA) from Service Level Agreements (SLA)?**
    - MOUs/MOAs are more directly related to what can be done with a system or information, while SLAs specify more intricate aspects of services
 
-- [ ] 𝐐.**19** - **What is the main purpose of an SLA?
+- [ ] 𝐐.**19** - **What is the main purpose of an SLA?**
    - To document specific parameters and minimum service levels
 
 - [ ] 𝐐.**20** - **Which organization's definition of cloud computing is commonly used globally?**
