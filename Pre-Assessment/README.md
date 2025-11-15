@@ -118,68 +118,135 @@
 - [ ] 𝐐.**39** - **The Payment Card Industry (PCI) Council is a committee made up of representatives from major credit card providers (Visa, Mastercard, American Express) in the United States.** *The PCI Council issues rules that merchants must follow if the merchants choose to accept payment via credit card.* **These rules describe best practices for securing credit card processing technology, activities for securing credit card information, and how to protect personal data of customers.** *Which of the following describes this set of rules?*
    - Standard
 
-- [ ] 𝐐.**40** - **
-   - 
+- [ ] 𝐐.**40** - **Which of the following probably poses the MOST risk?**
+   - A high-likelihood, high-impact event
 
-- [ ] 𝐐.**41** - **
-   - 
+- [ ] 𝐐.**41** - **Of the following, which would probably NOT be considered a threat?**
+   - A Laptop with sensitive data on itaptop with sensitive data on it
 
-- [ ] 𝐐.**42** - **
-   - 
+- [ ] 𝐐.**42** - **Kerpak works in the security office of a medium-sized entertainment company. Kerpak is asked to assess a particular threat, and he suggests that the best way to counter this threat would be to purchase and implement a particular security solution.** *What concept does Kerpak's solution demonstrate?*
+   - Mitigation
 
-- [ ] 𝐐.**43** - **
-   - 
+- [ ] 𝐐.**43** - **Which of the following is an example of a "Something you are" authentication factor?**
+   - A photograph of your face
 
-- [ ] 𝐐.**44** - **
-   - 
+- [ ] 𝐐.**44** - **Which of the following is an example of a "Something you know" authentication factor?**
+   - Password
 
-- [ ] 𝐐.**45** - **
-   - 
+- [ ] 𝐐.**45** - **A software firewall is an application that runs on a device and prevents specific types of traffic from entering that device. Which type of control is this?**
+   - Technical
 
-- [ ] 𝐐.**46** - **
-   - 
+- [ ] 𝐐.**46** - **Druna is a security practitioner tasked with ensuring that laptops are not stolen from the organization's offices. Which kind of security control would probably be BEST for this purpose?**
+   - Physical
 
-- [ ] 𝐐.**47** - **
-   - 
+- [ ] 𝐐.**47** - **Sophia is visiting Las Vegas and decides to put a bet on a particular number on a roulette wheel. This is an example of _________.**
+   - Acceptance
 
-- [ ] 𝐐.**48** - **
-   - 
+- [ ] 𝐐.**48** - **In risk management concepts, what is something or someone that poses risk to an organization or asset?**
+   - Threat
 
-- [ ] 𝐐.**49** - **
-   - 
+- [ ] 𝐐.**49** - **In risk management, which concept reflects something a security practitioner might need to protect?**
+   - Assets
 
-- [ ] 𝐐.**50** - **
-   - 
+- [ ] 𝐐.**50** - **For which of the following systems would the security concept of availability be considered MOST important?**
+   - Medical systems that monitor patient conditions in an intensive-care unit
 
-- [ ] 𝐐.**51** - **
-   - 
+- [ ] 𝐐.**51** - **Steve is a security practitioner assigned to come up with a protective measure for ensuring that cars don't collide with pedestrians. What is probably the most effective type of control for this task?**
+   - Physical
 
-- [ ] 𝐐.**52** - **
-   - 
+- [ ] 𝐐.**52** - **A system collects transactional information and stores it in a record in order to show which users performed which actions. Which concept does this demonstrate?**
+   - Non-repudiation
 
-- [ ] 𝐐.**53** - **
-   - 
+- [ ] 𝐐.**53** - **Chad is a security practitioner tasked with ensuring that the information on the organization's public website is not changed by anyone outside the organization. Which concept does this task demonstrate?**
+   - Integrity
 
-- [ ] 𝐐.**54** - **
-   - 
+- [ ] 𝐐.**54** - **For which of the following assets is integrity probably the MOST important security aspect?**
+   - The file that contains passwords used to authenticate users
 
-- [ ] 𝐐.**55** - **
-   - 
+- [ ] 𝐐.**55** - **What type of solution typically inspects outbound communications traffic to check for unauthorized exfiltration of sensitive/valuable information?**
+   - DLP (Data Loss Prevention)
 
-- [ ] 𝐐.**56** - **
-   - 
+- [ ] 𝐐.**56** - **What tool aggregates log data from multiple sources, typically analyzes it, and reports potential threats?**
+   - SIEM ( Security Information and Event Management )
 
-- [ ] 𝐐.**57** - **
-   -
+- [ ] 𝐐.**57** - **Triffid, Inc., wants to host streaming video files for the company's remote users, but wants to ensure that the data is protected while it's streaming. Which method is probably BEST for this purpose?**
+   - Symmetric encryption
 
-- [ ] 𝐐.**58** - **
-   - 
+- [ ] 𝐐.**58** - **Dieter wants to send a message to Lupa and wants to be sure that Lupa knows the message has not been modified in transit. Which technique/tool could Dieter use to assist in this effort?**
+   - Hashing
 
-- [ ] 𝐐.**59** - **
-   - 
+- [ ] 𝐐.**59** - **If two people want to use asymmetric communication to conduct a confidential conversation, how many keys do they need?**
+   - 4 (FOUR)
+
+- [ ] 𝐐.**60** - **An organization should keep on file a copy of every signed Acceptable Use Policy (AUP). To whom should a copy be issued?**
+   - The user who signed it
 
 - [ ] 𝐐.**60** - **
    - 
+
+- [ ] 𝐐.**61** - **
+   - 
+
+- [ ] 𝐐.**62** - **
+   - 
+
+- [ ] 𝐐.**63** - **
+   - 
+
+- [ ] 𝐐.**64** - **
+   - 
+
+- [ ] 𝐐.**65** - **
+   - 
+
+- [ ] 𝐐.**66** - **
+   - 
+
+- [ ] 𝐐.**67** - **
+   - 
+
+- [ ] 𝐐.**68** - **
+   - 
+
+- [ ] 𝐐.**69** - **
+   - 
+
+- [ ] 𝐐.**70** - **
+   - 
+
+- [ ] 𝐐.**71** - **
+   - 
+
+- [ ] 𝐐.**72** - **
+   - 
+
+- [ ] 𝐐.**73** - **
+   - 
+
+- [ ] 𝐐.**74** - **
+   - 
+
+- [ ] 𝐐.**75** - **
+   - 
+
+- [ ] 𝐐.**76** - **
+   - 
+
+- [ ] 𝐐.**77** - **
+   - 
+
+- [ ] 𝐐.**78** - **
+   - 
+
+- [ ] 𝐐.**79** - **
+   - 
+
+- [ ] 𝐐.**80** - **
+   - 
+
+- [ ] 𝐐.**81** - **
+   - 
+
 
 ---
 
