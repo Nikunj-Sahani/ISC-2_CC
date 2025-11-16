@@ -181,23 +181,23 @@
 - [ ] 𝐐.**60** - **An organization should keep on file a copy of every signed Acceptable Use Policy (AUP). To whom should a copy be issued?**
    - The user who signed it
 
-- [ ] 𝐐.**60** - **
-   - 
+- [ ] 𝐐.**60** - **What must an organization always be prepared to do when applying a patch?**
+   - RollBack
 
-- [ ] 𝐐.**61** - **
-   - 
+- [ ] 𝐐.**61** - **Inbound traffic from an external source seems to indicate much higher rates of communication than normal, to the point where the internal systems might be overwhelmed.** *Which security solution can often identify and potentially counter this risk?*
+   - Firewall
 
-- [ ] 𝐐.**62** - **
-   - 
+- [ ] 𝐐.**62** - **Which of the following is used to ensure that configuration management activities are effective and enforced?**
+   - Verification and audit
 
-- [ ] 𝐐.**63** - **
-   - 
+- [ ] 𝐐.**63** - **What type of device is commonly advisable to have on the perimeter between two networks?**
+   - Firewall
 
-- [ ] 𝐐.**64** - **
-   - 
+- [ ] 𝐐.**64** - **Handel is a senior manager at Triffid, Inc., and is in charge of implementing a new access control scheme for the company. Handel wants to ensure that employees transferring from one department to another, getting promoted, or cross-training to new positions can get access to the different assets they'll need for their new positions, in the most efficient manner.** *Which method should Handel select?*
+   - Role-based access controls (RBAC)
 
-- [ ] 𝐐.**65** - **
-   - 
+- [ ] 𝐐.**65** - **How often should logs be reviewed?**
+   - Continually
 
 - [ ] 𝐐.**66** - **
    - 
