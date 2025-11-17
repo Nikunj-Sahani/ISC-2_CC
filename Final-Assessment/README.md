@@ -94,5 +94,103 @@
    - Inform ISC2
 
 ---
-## 2️⃣ Domain 2 : Security Principles
+## 2️⃣ Domain 2 :  Incident Response, BC and DR Concepts
+---
+
+- [ ] 𝐐.**31** - **You are reviewing log data from a router; there is an entry that shows a user sent traffic through the router at 11:45 am, local time, yesterday. This is an example of a(n) _______.**
+   - Event
+
+- [ ] 𝐐.**32** - **An attacker outside the organization attempts to gain access to the organization’s internal files. This is an example of a(n) ______.**
+   - Intrusion
+
+- [ ] 𝐐.**33** - **Who approves the incident response policy?**
+   - Senior management
+
+- [ ] 𝐐.**34** - **Which of the following are not typically involved in incident detection?**
+   - Regulators
+
+- [ ] 𝐐.**35** - **What is the risk associated with resuming full normal operations too soon after a disaster recovery (DR) effort?**
+   - The danger posed by the disaster might still be present
+
+- [ ] 𝐐.**36** - **What is the goal of Business Continuity efforts?**
+   - Keep critical business functions operational
+
+- [ ] 𝐐.**37** - **Which of the following is likely to be included in the business continuity plan?**
+   - Alternate work areas for personnel affected by a natural disaster
+
+- [ ] 𝐐.**38** - **What is the most important goal of a business continuity effort?**
+   - Preserve health and human safety
+
+- [ ] 𝐐.**39** - **What is the overall objective of a disaster recovery (DR) effort?**
+   - Return to normal, full operations
+
+- [ ] 𝐐.**40** - **What is the risk associated with delaying the resumption of full normal operations after a disaster?**
+   - The impact of running alternate operations for extended periods
+
+---
+## 3️⃣ Domain 3 :  Access Control Concepts
+---
+
+- [ ] 𝐐.**41** - **
+   - 
+
+- [ ] 𝐐.**42** - **
+   - 
+
+- [ ] 𝐐.**43** - **
+   - 
+
+- [ ] 𝐐.**44** - **
+   - 
+
+- [ ] 𝐐.**45** - **
+   - 
+
+- [ ] 𝐐.**46** - **
+   - 
+
+- [ ] 𝐐.**47** - **
+   - 
+
+- [ ] 𝐐.**48** - **
+   - 
+
+- [ ] 𝐐.**49** - **
+   - 
+
+- [ ] 𝐐.**50** - **
+   - 
+
+- [ ] 𝐐.**51** - **
+   - 
+
+- [ ] 𝐐.**52** - **
+   - 
+
+- [ ] 𝐐.**53** - **
+   - 
+
+- [ ] 𝐐.**54** - **
+   - 
+
+- [ ] 𝐐.**55** - **
+   - 
+
+- [ ] 𝐐.**56** - **
+   - 
+
+- [ ] 𝐐.**57** - **
+   - 
+
+- [ ] 𝐐.**58** - **
+   - 
+
+- [ ] 𝐐.**59** - **
+   - 
+
+- [ ] 𝐐.**60** - **
+   - 
+
+---
+
 ---
