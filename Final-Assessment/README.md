@@ -131,66 +131,135 @@
 ## 3️⃣ Domain 3 :  Access Control Concepts
 ---
 
-- [ ] 𝐐.**41** - **
+- [ ] 𝐐.**41** - **Gelbi is a Technical Support analyst for Triffid, Inc. Gelbi sometimes is required to install or remove software. Which of the following could be used to describe Gelbi's account?**
+   - Privileged
+
+- [ ] 𝐐.**42** - **Guillermo logs onto a system and opens a document file. In this example, Guillermo is:**
+   - The subject
+
+- [ ] 𝐐.**43** - **Which of the following is not an appropriate control to add to privileged accounts?**
+   - Security deposit
+
+- [ ] 𝐐.**44** - **Prachi works as a database administrator for Triffid, Inc. Prachi is allowed to add or delete users, but is not allowed to read or modify the data in the database itself. When Prachi logs onto the system, an access control list (ACL) checks to determine which permissions Prachi has. In this situation, what is the ACL?**
+   - The rule
+
+- [ ] 𝐐.**45** - **Prachi works as a database administrator for Triffid, Inc. Prachi is allowed to add or delete users, but is not allowed to read or modify the data in the database itself. When Prachi logs onto the system, an access control list (ACL) checks to determine which permissions Prachi has. In this situation, what is Prachi?**
+   - The Subject
+
+- [ ] 𝐐.**46** - **Larry and Fern both work in the data center. In order to enter the data center to begin their workday, they must both present their own keys (which are different) to the key reader, before the door to the data center opens. Which security concept is being applied in this situation?**
+   - Dual control
+
+- [ ] 𝐐.**47** - **Which of the following is a biometric access control mechanism?**
+   - A door locked by a voiceprint identifier
+
+- [ ] 𝐐.**48** - **All visitors to a secure facility should be _______.**
+   - Escorted
+
+- [ ] 𝐐.**49** - **All of the following are typically perceived as drawbacks to biometric systems, except:**
+   - Lack of accuracy
+
+- [ ] 𝐐.**50** - **A human guard monitoring a hidden camera could be considered a ______ control.**
+   - Detective
+
+- [ ] 𝐐.**51** - **A _____ is a record of something that has occurred.**
+   - Log
+
+- [ ] 𝐐.**52** - **Tekila works for a government agency. All data in the agency is assigned a particular sensitivity level, called a Classification. Every person in the agency is assigned a clearances' level, which determines the classification of data each person can access and is controlled at the system level. What is the access control model being implemented in Tekila's agency?**
+   - MAC (mandatory access control)
+
+- [ ] 𝐐.**53** - **Which of the following would be considered a logical access control?**
+   - A fingerprint reader that allows an employee to access a laptop computer
+
+- [ ] 𝐐.**54** - **Trina and Doug both work at Triffid, Inc. Doug is having trouble logging into the network. Trina offers to log in for Doug, using Trina's credentials, so that Doug can get some work done. What is the problem with this?**
+   - Anything either of them do will be attributed to Trina
+
+- [ ] 𝐐.**55** - **Gary is unable to log in to the production environment. Gary tries three times and is then locked out of trying again for one hour. Why could this be?**
+   - Gray's actions look like an attack
+
+- [ ] 𝐐.**56** - **Suvid works at Triffid, Inc. When Suvid attempts to log in to the production environment, a message appears stating that Suvid has to reset the password. What may have occurred to cause this?**
+   - Suvid's password has expired
+
+- [ ] 𝐐.**57** - **Prina is a database manager. Prina is allowed to add new users to the database, remove current users, and create new usage functions for the users. Prina is not allowed to read the data in the fields of the database itself. This is an example of:**
+   - Role-based access controls (RBAC)
+
+- [ ] 𝐐.**58** - **Handel is a senior manager at Triffid, Inc., and is in charge of implementing a new access control scheme for the company. Handel wants to ensure that operational managers have the utmost personal choice in determining which employees get access to which systems/data. Which method should Handel select?**
+   - Discretionary access controls (DAC)
+
+- [ ] 𝐐.**59** - **Handel is a senior manager at Triffid, Inc., and is in charge of implementing a new access control scheme for the company. Handel wants to ensure that employees transferring from one department to another, getting promoted, or cross-training to new positions can get access to the different assets they'll need for their new positions, in the most efficient manner. Which method should Handel select?**
+   - Role-based access controls (RBAC)
+
+- [ ] 𝐐.**60** - **Handel is a senior manager at Triffid, Inc., and is in charge of implementing a new access control scheme for the company. Handel wants to ensure that employees who are assigned to new positions in the company do not retain whatever access they had in their old positions. Which method should Handel select?**
+   - Role-based access controls (RBAC)
+
+---
+## 4️⃣ Domain 4 : Network SecurityAccess Control Concepts
+---
+
+- [ ] 𝐐.**61** - **
    - 
 
-- [ ] 𝐐.**42** - **
+- [ ] 𝐐.**62** - **
    - 
 
-- [ ] 𝐐.**43** - **
+- [ ] 𝐐.**63** - **
    - 
 
-- [ ] 𝐐.**44** - **
+- [ ] 𝐐.**64** - **
    - 
 
-- [ ] 𝐐.**45** - **
+- [ ] 𝐐.**65** - **
    - 
 
-- [ ] 𝐐.**46** - **
+- [ ] 𝐐.**66** - **
    - 
 
-- [ ] 𝐐.**47** - **
+- [ ] 𝐐.**67** - **
    - 
 
-- [ ] 𝐐.**48** - **
+- [ ] 𝐐.**68** - **
    - 
 
-- [ ] 𝐐.**49** - **
+- [ ] 𝐐.**69** - **
    - 
 
-- [ ] 𝐐.**50** - **
+- [ ] 𝐐.**70** - **
    - 
 
-- [ ] 𝐐.**51** - **
+- [ ] 𝐐.**71** - **
    - 
 
-- [ ] 𝐐.**52** - **
+- [ ] 𝐐.**72** - **
    - 
 
-- [ ] 𝐐.**53** - **
+- [ ] 𝐐.**73** - **
    - 
 
-- [ ] 𝐐.**54** - **
+- [ ] 𝐐.**74** - **
    - 
 
-- [ ] 𝐐.**55** - **
+- [ ] 𝐐.**75** - **
    - 
 
-- [ ] 𝐐.**56** - **
+- [ ] 𝐐.**76** - **
    - 
 
-- [ ] 𝐐.**57** - **
+- [ ] 𝐐.**77** - **
    - 
 
-- [ ] 𝐐.**58** - **
+- [ ] 𝐐.**78** - **
    - 
 
-- [ ] 𝐐.**59** - **
+- [ ] 𝐐.**79** - **
    - 
 
-- [ ] 𝐐.**60** - **
+- [ ] 𝐐.**80** - **
    - 
 
 ---
 
 ---
+
+
+
+
+
