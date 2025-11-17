@@ -199,55 +199,116 @@
 - [ ] 𝐐.**65** - **How often should logs be reviewed?**
    - Continually
 
-- [ ] 𝐐.**66** - **
+- [ ] 𝐐.**66** - **What should be done when data has reached the end of the retention period?**
+   - It should be destroyed
+
+- [ ] 𝐐.**67** - **What should security controls on log data reflect?**
+   - The sensitivity of the source device
+
+- [ ] 𝐐.**68** - **Handel is a senior manager at Triffid, Inc., and is in charge of implementing a new access control scheme for the company. Handel wants to ensure that employees who are assigned to new positions in the company do not retain whatever access they had in their old positions.** *Which method should Handel select?*
+   - Role-based access controls (RBAC)
+
+- [ ] 𝐐.**69** - **Which of the following describes data that is left behind on systems/media after normal deletion procedures have been attempted?**
+   - Remanence
+
+- [ ] 𝐐.**70** - **What type of tool is used to monitor local devices with the aim of reducing potential threats from hostile software?**
+   - Anti-malware
+
+- [ ] 𝐐.**71** - **What is the section of the IT environment that is closest to the external world; where we locate IT systems that communicate with the Internet?**
+   - DMZ ( Demilitarized Zone )
+
+- [ ] 𝐐.**72** - **Triffid, Inc., has many remote workers who use their own IT devices to process Triffid's information. The Triffid security team wants to deploy some sort of sensor on user devices in order to recognize and identify potential security issues.** *Which of the following is probably most appropriate for this specific purpose?*
+   - HIDS (host-based intrusion-detection systems)
+
+- [ ] 𝐐.**73** - **What protocol should Barry use when he wants to upload a series of files to a web-based storage service?**
+   - SFTP (Secure File Transfer Protocol)
+
+- [ ] 𝐐.**74** - **Which activity is usually part of the configuration management process, but is also extremely helpful in countering potential attacks?**
+   - Updating and patching systems
+
+- [ ] 𝐐.**75** - **Gary is unable to log in to the production environment. Gary tries three times and is then locked out of trying again for one hour. Why could this be?**
+   - Gary's actions look like an attack
+
+- [ ] 𝐐.**76** - **Mila works for a government agency. All data in the agency is assigned a particular sensitivity level, called a classification. Every person in the agency is assigned a clearance level, which determines the classification of data each person can access and is controlled at the system level.** *What is the access control model being implemented in Mila's agency?**
+   - MAC (mandatory access control)
+
+- [ ] 𝐐.**77** - **Which of the following describes when archiving is typically done?**
+   - When data is not needed for regular work purposes
+
+- [ ] 𝐐.**78** - **Gary is an attacker. Gary is able to get access to the communication wire between Dauphine's machine and Linda's machine and can then surveil the traffic between the two when they're communicating. What kind of attack is this?**
+   - On Path
+
+- [ ] 𝐐.**79** - **Suvid works at Triffid, Inc. When Suvid attempts to log in to the production environment, a message appears stating that he has to reset his password. What may have occurred to cause this?**
+   - Suvid's password has expired
+
+- [ ] 𝐐.**80** - **Prina is a database manager. Prina is allowed to add new users to the database, remove current users, and create new usage functions for the users. Prina is not allowed to read the data in the fields of the database itself. This is an example of what?**
+   - Role-based access controls (RBAC)
+
+- [ ] 𝐐.**81** - **An IoT (Internet of Things) device is typically characterized by its effect on or use of which environment?**
+   - Physical
+
+- [ ] 𝐐.**82** - **Why is the proper alignment of security policy and business goals within the organization important?**
+   - Security policy that conflicts with business goals can inhibit productivity
+
+- [ ] 𝐐.**83** - **Which type of fire-suppression system is typically the SAFEST for humans?**
+   - Water
+
+- [ ] 𝐐.**84** - **Trina and Doug both work at Triffid, Inc. Doug is having trouble logging in to the network. Trina offers to log in for Doug, using her credentials, so that Doug can get some work done. What is the problem with this?**
+   - Anything either of them do will be attributed to Trina
+
+- [ ] 𝐐.**85** - **Handel is a senior manager at Triffid, Inc., and is in charge of implementing a new access control scheme for the company. Handel wants to ensure that operational managers have the utmost personal choice in determining which employees get access to which systems/data. Which method should Handel select?**
+   - Discretionary access controls (DAC)
+
+- [ ] 𝐐.**86** - **To what data does security need to be provided?**
+   - Restricted
+   - Private
+   - Illegal
+
+- [ ] 𝐐.**87** - **Which of the following would be considered a logical access control?**
+   - A fingerprint reader that allows an employee to access a laptop computer
+
+- [ ] 𝐐.**88** - **Bert wants to add a flashlight capability to a smartphone. Bert searches the internet for a free flashlight app, and downloads it to the phone. The app allows Bert to use the phone as a flashlight, but also steals Bert's contacts list. What kind of app is this?**
+   - Trojan
+
+- [ ] 𝐐.**89** - **What type of device filters network traffic in order to enhance overall security/performance?**
+   - Firewall
+
+- [ ] 𝐐.**90** - **Cyril wants to ensure all the devices on his company's internal IT environment are properly synchronized. Which of the following protocols would aid in this effort?**
+   - NTP (Network Time Protocol)
+
+- [ ] 𝐐.**91** - **Which term refers to the logical address of a device connected to the network or internet?**
+   - IP (Internet Protocol) Address
+
+- [ ] 𝐐.**92** - **A type of device typically accessed by multiple users and often intended for a single purpose, such as managing email or web pages, is referred to as what?**
+   - Server
+
+- [ ] 𝐐.**93** - **Which common cloud service model offers the customer the MOST control of the cloud environment?**
+   - Infrastructure as a service (IaaS)
+
+- [ ] 𝐐.**94** - **Carol is browsing the Web. Which of the following ports is she probably using?**
+   - 80 (HTTP)
+
+- [ ] 𝐐.**95** - **Which one of the following is a benefit of computer-based training (CBT)?**
+   - Scalable
+
+- [ ] 𝐐.**96** - **Ludwig is a security analyst at Triffid, Inc. Ludwig notices network traffic that might indicate an attack designed to affect the availability of the environment. Which of the following might be the attack Ludwig sees?**
+   - DDOS (distributed denial of service)
+
+- [ ] 𝐐.**97** - **Which of the following describes the output of a hashing algorithm?**
+   - It's the same length
+
+- [ ] 𝐐.**98** - **Which of the following is a record of something that has occurred?**
+   - Log
+
+- [ ] 𝐐.**99** - **Data retention periods apply to which kind of data?**
+   - Sensitive
+   - Medical
+   - Secret
+
+- [ ] 𝐐.**100** - **
    - 
 
-- [ ] 𝐐.**67** - **
-   - 
-
-- [ ] 𝐐.**68** - **
-   - 
-
-- [ ] 𝐐.**69** - **
-   - 
-
-- [ ] 𝐐.**70** - **
-   - 
-
-- [ ] 𝐐.**71** - **
-   - 
-
-- [ ] 𝐐.**72** - **
-   - 
-
-- [ ] 𝐐.**73** - **
-   - 
-
-- [ ] 𝐐.**74** - **
-   - 
-
-- [ ] 𝐐.**75** - **
-   - 
-
-- [ ] 𝐐.**76** - **
-   - 
-
-- [ ] 𝐐.**77** - **
-   - 
-
-- [ ] 𝐐.**78** - **
-   - 
-
-- [ ] 𝐐.**79** - **
-   - 
-
-- [ ] 𝐐.**80** - **
-   - 
-
-- [ ] 𝐐.**81** - **
-   - 
-
-
+---
 ---
 
 <h1 align="center">⛩️ Course Pre-Assessment ⛩️</h1>
