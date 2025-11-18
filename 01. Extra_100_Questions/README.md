@@ -35,7 +35,7 @@
    - 21
 
 - [ ] 𝐐.**12** - **Which authentication mechanism is commonly used to access cloud resources securely from external networks?**
-   - Username and password
+   - OAuth (Open Authorization)
 
 - [ ] 𝐐.**13** - **Which port is commonly used for SSH?**
    - 22
@@ -67,9 +67,35 @@
 - [ ] 𝐐.**22** - **What is the primary goal of cloud access security brokers (CASBs)?**
    - To monitor and control data traffic between on-premises and cloud environments
 
+- [ ] 𝐐.**23** - **Which encryption protocol is commonly used to secure data transmitted over wireless networks?**
+   - WPA2 (Wi-Fi Protected Access 2)
 
+- [ ] 𝐐.**24** - **How does IPSec protect against replay attacks?**
+   - By using sequence numbers
 
+- [ ] 𝐐.**25** - **Which cloud deployment model provides a combination of private and public cloud resources?**
+   - Hybrid cloud
 
+- [ ] 𝐐.**26** - **Which port is used by the Telnet protocol?**
+   - 23
+
+- [ ] 𝐐.**27** - **What is the primary purpose of using role-based access control (RBAC) in a cloud environment?**
+   - To restrict access to cloud resources based on users' roles and responsibilities
+
+- [ ] 𝐐.**28** - **An example of a registered port?
+   - Microsoft SQL Server
+
+- [ ] 𝐐.**29** - **What is the purpose of implementing a Virtual Private Network (VPN) in a network?**
+   - To securely connect remote users and devices to a private network over the internet
+
+- [ ] 𝐐.**30** - **Which cloud service model provides ready-to-use software applications over the internet?**
+   - Software as a Service (SaaS)
+
+- [ ] 𝐐.**31** - **
+   - 
+
+- [ ] 𝐐.**32** - **
+   - 
 
 
 
