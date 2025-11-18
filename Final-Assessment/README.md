@@ -195,71 +195,136 @@
 ## 4️⃣ Domain 4 : Network SecurityAccess Control Concepts
 ---
 
-- [ ] 𝐐.**61** - **
-   - 
+- [ ] 𝐐.**61** - **What term refers to the logical address of a device connected to the network or Internet?**
+   - Internet Protocol (IP) address
 
-- [ ] 𝐐.**62** - **
-   - 
+- [ ] 𝐐.**62** - **What type of device filters network traffic in order to enhance overall security/performance?**
+   - Firewall
 
-- [ ] 𝐐.**63** - **
-   - 
+- [ ] 𝐐.**63** - **What protocol should Barry use when he wants to upload a series of files to a web-based storage service?**
+   - SFTP (Secure File Transfer Protocol)
 
-- [ ] 𝐐.**64** - **
-   - 
+- [ ] 𝐐.**64** - **What type of device, typically accessed by multiple users and often intended for a single purpose, such as managing email or web pages, is referred to as?**
+   - Server
 
-- [ ] 𝐐.**65** - **
-   - 
+- [ ] 𝐐.**65** - **Carol is browsing the Web. Which of the following ports is she probably using?**
+   - 80 (HTTP)
 
-- [ ] 𝐐.**66** - **
-   - 
+- [ ] 𝐐.**66** - **Cyril wants to ensure all the devices on his company's internal IT environment are properly synchronized.**
+   - NTP (Network Time Protocol)
 
-- [ ] 𝐐.**67** - **
-   - 
+- [ ] 𝐐.**67** - **Ludwig is a security analyst at Triffid, Inc. Ludwig notices network traffic that might indicate an attack designed to affect the availability of the environment. Which of the following might be the attack Ludwig sees?**
+   - DDOS (distributed denial of service)
 
-- [ ] 𝐐.**68** - **
-   - 
+- [ ] 𝐐.**68** - **Gary is an attacker. Gary is able to get access to the communication wire between Dauphine's machine and Linda's machine and can then surveil the traffic between the two when they're communicating. What kind of attack is this?**
+   - On Path
 
-- [ ] 𝐐.**69** - **
-   - 
+- [ ] 𝐐.**69** - **Bert wants to add a flashlight capability to a smartphone. Bert searches the internet for a free flashlight app and downloads it to the phone. The app allows Bert to use the phone as a flashlight but also steals Bert's contacts list. What kind of app is this?**
+   - Trojan
 
-- [ ] 𝐐.**70** - **
-   - 
+- [ ] 𝐐.**70** - **Triffid, Inc., has many remote workers who use their own IT devices to process Triffid's information. The Triffid security team wants to deploy some sort of sensor on user devices in order to recognize and identify potential security issues. Which of the following is probably most appropriate for this specific purpose?**
+   - HIDS (host-based intrusion-detection systems)
 
-- [ ] 𝐐.**71** - **
-   - 
+- [ ] 𝐐.**71** - **Inbound traffic from an external source seems to indicate much higher rates of communication than normal, to the point where the internal systems might be overwhelmed. Which security solution can often identify and potentially counter this risk?**
+   - Firewall
 
-- [ ] 𝐐.**72** - **
-   - 
+- [ ] 𝐐.**72** - **What tool aggregates log data from multiple sources, typically analyzes it, and reports potential threats?**
+   - Security information and event management or SIEM
 
-- [ ] 𝐐.**73** - **
-   - 
+- [ ] 𝐐.**73** - **What type of solution typically inspects outbound communications traffic to check for unauthorized exfiltration of sensitive/valuable information?**
+   - DLP (data loss prevention)
 
-- [ ] 𝐐.**74** - **
-   - 
+- [ ] 𝐐.**74** - **What type of tool is utilized to monitor local devices with the aim of reducing potential threats from hostile software?**
+   - Anti-malware
 
-- [ ] 𝐐.**75** - **
-   - 
+- [ ] 𝐐.**75** - **Which of the following activities is usually part of the configuration management process, but is also extremely helpful in countering potential attacks?**
+   - Updating and patching systems
 
-- [ ] 𝐐.**76** - **
-   - 
+- [ ] 𝐐.**76** - **Which type of fire-suppression system is typically the safest for humans?**
+   - Water
 
-- [ ] 𝐐.**77** - **
-   - 
+- [ ] 𝐐.**77** - **Which common cloud service model offers the customer the most control of the cloud environment?**
+   - Infrastructure as a service (IaaS)
 
-- [ ] 𝐐.**78** - **
-   - 
+- [ ] 𝐐.**78** - **The section of the IT environment that is closest to the external world; where we locate IT systems that communicate with the Internet.**
+   - DMZ
 
-- [ ] 𝐐.**79** - **
-   - 
+- [ ] 𝐐.**79** - **An IoT (Internet of Things) device is typified by its effect on or use of the _____ environment.**
+   - Physical
 
-- [ ] 𝐐.**80** - **
-   - 
-
----
+- [ ] 𝐐.**80** - **What type of device is commonly advisable to have on the perimeter between two networks?**
+   - Firewall
 
 ---
+## 5️⃣ Domain 5 : Security Operations
+---
 
+- [ ] 𝐐.**81** - **Archiving is typically done when _________.**
+   - Data is not needed for regular work purposes
 
+- [ ] 𝐐.**82** - **Every document owned by Triffid, Inc., whether hardcopy or electronic, has a clear, 24-point word at the top and bottom. Only three words can be used: “Sensitive”, “Proprietary”, and “Public”. This is an example of _____.**
+   - Labelling
 
+- [ ] 𝐐.**83** - **Security needs to be provided to ____ data.**
+   - Private
+   - Restricted
+   - Illegal
 
+- [ ] 𝐐.**84** - **Data retention periods apply to ____ data.**
+   - Secret
+   - Sensitive
+   - Medical
 
+- [ ] 𝐐.**85** - **When data has reached the end of the retention period, it should be _____.**
+   - Destroyed
+
+- [ ] 𝐐.**86** - **Data _____ is data left behind on systems/media after normal deletion procedures have been attempted.**
+   - Remanence
+
+- [ ] 𝐐.**87** - **Log data should be kept ______.**
+   - On a device other than where it was captured
+
+- [ ] 𝐐.**88** - **Security controls on log data should reflect _______**
+   - The sensitivity of the source device
+
+- [ ] 𝐐.**89** - **Logs should be reviewed ______.**
+   - Continually
+
+- [ ] 𝐐.**80** - **Dieter wants to send a message to Lupa and wants to be sure that Lupa knows the message has not been modified in transit. What technique/tool could Dieter use to assist in this effort?**
+   - Hashing
+
+- [ ] 𝐐.**90** - **Triffid, Inc., wants to host streaming video files for the company's remote users but wants to ensure the data is protected while it's streaming. Which of the following methods are probably best for this purpose?**
+   - Symmetric encryption
+
+- [ ] 𝐐.**91** - **_____ is used to ensure that configuration management activities are effective and enforced.**
+   - Verification and audit
+
+- [ ] 𝐐.**92** - **An organization must always be prepared to ______ when applying a patch.**
+   - Rollback
+
+- [ ] 𝐐.**93** - **Why is the proper alignment of security policy and business goals within the organization important?**
+   - Security policy that conflicts with business goals can inhibit productivity
+
+- [ ] 𝐐.**94** - **The organization should keep a copy of every signed Acceptable Use Policy (AUP) on file, and issue a copy to _______.**
+   - The user who signed it
+
+- [ ] 𝐐.**95** - **What is the most crucial element of any security instruction program?**
+   - Preserve health and human safety
+
+- [ ] 𝐐.**96** - **Which one of the following is a benefit of computer-based training (CBT)?**
+   - Scalable
+
+- [ ] 𝐐.**97** - **The output of a hashing algorithm is _____.**
+   - The Same length
+
+- [ ] 𝐐.**98** - **Hashing is often used to provide _______.**
+   - Integrity
+
+- [ ] 𝐐.**99** - **If two people want to use asymmetric communication to conduct a confidential conversation, how many keys do they need?**
+   - 4 (FOUR)
+
+- [ ] 𝐐.**100** - **What security feature is commonly used with HTTPS?**
+   - SSL/TLS
+
+---
+---
