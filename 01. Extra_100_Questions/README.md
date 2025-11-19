@@ -183,7 +183,8 @@
 - [ ] 𝐐.**60** - **Which security control is used to detect and respond to security incidents in cloud environments?**
    - Intrusion detection systems (IDS)
 
-
+---
+---
 
 
 
