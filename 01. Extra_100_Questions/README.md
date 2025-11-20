@@ -23,7 +23,7 @@
    - Role-based access control (RBAC)
 
 - [ ] 𝐐.**8** - **What protocol is associated with port 53?**
-   - DNS
+   - DNS (Domain Name System)
 
 - [ ] 𝐐.**9** - **What layer of the OSI model is the target of a ping flood attack?**
    - Layer 3: The Network Layer
@@ -94,13 +94,13 @@
    - Network Access Control (NAC) 
 
 - [ ] 𝐐.**31** - **Which port is used by the FTP protocol?**
-   - 21
+   - 21 (FTP)
 
 - [ ] 𝐐.**32** - **Which authentication mechanism is commonly used to access cloud resources securely from external networks?**
    - OAuth (Open Authorization)
 
 - [ ] 𝐐.**33** - **Which port is commonly used for SSH?**
-   - 22
+   - 22 (SSH)
 
 - [ ] 𝐐.**34** - **What is the primary purpose of data encryption in transit in cloud environments?**
    - To protect data from unauthorized disclosure during transmission over networks
@@ -182,6 +182,63 @@
 
 - [ ] 𝐐.**60** - **Which security control is used to detect and respond to security incidents in cloud environments?**
    - Intrusion detection systems (IDS)
+
+- [ ] 𝐐.**61** - **
+   - 
+
+- [ ] 𝐐.**62** - **
+   - 
+
+- [ ] 𝐐.**63** - **
+   - 
+
+- [ ] 𝐐.**64** - **
+   - 
+
+- [ ] 𝐐.**66** - **
+   - 
+
+- [ ] 𝐐.**67** - **
+   - 
+
+- [ ] 𝐐.**68** - **
+   - 
+
+- [ ] 𝐐.**69** - **
+   - 
+
+- [ ] 𝐐.**70** - **
+   - 
+
+- [ ] 𝐐.**71** - **
+   - 
+
+- [ ] 𝐐.**72** - **
+   - 
+
+- [ ] 𝐐.**73** - **
+   - 
+
+- [ ] 𝐐.**74** - **
+   - 
+
+- [ ] 𝐐.**75** - **
+   - 
+
+- [ ] 𝐐.**76** - **
+   - 
+
+- [ ] 𝐐.**77** - **
+   - 
+
+- [ ] 𝐐.**78** - **
+   - 
+
+- [ ] 𝐐.**79** - **
+   - 
+
+- [ ] 𝐐.**80** - **
+   - 
 
 ---
 ---
