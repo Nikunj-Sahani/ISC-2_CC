@@ -183,17 +183,20 @@
 - [ ] 𝐐.**60** - **Which security control is used to detect and respond to security incidents in cloud environments?**
    - Intrusion detection systems (IDS)
 
-- [ ] 𝐐.**61** - **
-   - 
+- [ ] 𝐐.**61** - **What is the range of dynamic or private ports?**
+   - 49152-65535
 
-- [ ] 𝐐.**62** - **
-   - 
+- [ ] 𝐐.**62** - **Which security control is designed to detect and prevent buffer overflow attacks?**
+   - Input validation mechanisms
 
-- [ ] 𝐐.**63** - **
-   - 
+- [ ] 𝐐.**63** - **What layer of the OSI model is the target of a MAC flooding attack?**
+   - Layer 2 - Data Link Layer
 
-- [ ] 𝐐.**64** - **
-   - 
+- [ ] 𝐐.**64** - **What is the main purpose of an Incident Response Plan (IRP)?**
+   - To provide guidelines and procedures for responding to and mitigating security incidents
+
+- [ ] 𝐐.**65** - **What is the primary purpose of a cloud security group (CSG) in a public cloud environment?**
+   - To manage access control for cloud resources
 
 - [ ] 𝐐.**66** - **
    - 
